@@ -12,23 +12,23 @@ main:
     # url: /publications/
     url: "https://scholar.google.com/citations?hl=en&user=hqwAf3UAAAAJ"
 
-  # title: "Talks"
-  #  url: /talks/    
+  # - title: "Talks"
+  #   url: /talks/
 
-  # title: "Teaching"
-  # url: /teaching/    
-    
-  # title: "Portfolio"
-  #  url: /portfolio/
-        
-  # title: "Blog Posts"
-  # url: /year-archive/
-    
+  # - title: "Teaching"
+  #   url: /teaching/
+
+  # - title: "Portfolio"
+  #   url: /portfolio/
+
+  # - title: "Blog Posts"
+  #   url: /year-archive/
+
   - title: "CV"
-   url: /cv/
-    
+    url: /cv/
+
   # - title: "CV"
   #   url: /cv-json/
-    
-  # title: "Guide"
-  # url: /markdown/
+
+  # - title: "Guide"
+  #   url: /markdown/
